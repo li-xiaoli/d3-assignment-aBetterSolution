@@ -1,0 +1,13 @@
+.yaxis path,
+.yaxis line {
+	fill: none;
+	stroke: black;
+	shape-rendering: crispEdges;
+}
+
+.yaxis text {
+	font-family: sans-serif;
+	font-size: 9px;
+	text-align: center;
+}
+
